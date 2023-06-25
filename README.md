@@ -6,7 +6,7 @@ Descriptif de la réalisation professionnelle, y compris les productions réalis
 
 1)	Fonctionnalités :
 
-L’utilisateur créer un compte et se connecter, voir des musiques, les liker, visualiser ses likes et un camembert sur ses genres les plus appréciés.
+L’utilisateur peut créer un compte et se connecter, voir des musiques, les liker, visualiser ses likes et un camembert (graph Chart.js) sur ses genres les plus appréciés.
 L’admin possède les fonctionnalités d’un utilisateur et peut en plus accéder à un dashboard afin de gérer (ajouter, modifier, supprimer) utilisateurs et musiques.
 
 2)	Diagramme des classes :
